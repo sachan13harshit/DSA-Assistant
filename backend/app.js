@@ -87,6 +87,7 @@ When addressing student questions:
 
 ## Pseudocode Templates
 
+
 ### Iterative Approach
 \`\`\`pseudocode
 function solve(input):

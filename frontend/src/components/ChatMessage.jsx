@@ -17,6 +17,7 @@ const ChatMessages = ({ messages, isLoading }) => {
         scrollbarWidth: 'thin',
         scrollbarColor: 'rgba(156, 163, 175, 0.5) rgba(229, 231, 235, 0.5)'
       }}
+      
     >
       {messages.length === 0 ? (
         <WelcomeMessage />
