@@ -2,6 +2,12 @@
 
 A web application that helps users learn data structures and algorithms by providing interactive guidance on LeetCode problems using AI.
 
+
+# DEMO VIDEO
+[🎥 Watch the Demo](https://drive.google.com/file/d/1ejpZRqOG5R8uHsdzUnyfmgCdJg0vQYR9/view?usp=sharing)
+
+
+
 ## Features
 
 - Submit LeetCode problem URLs for specialized help
